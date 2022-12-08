@@ -1,16 +1,49 @@
-### Hi there 👋
+### Olá! Eu Sou Emerson Sinézio 👋
 
-<!--
-**EmersonSinezio/EmersonSinezio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <span>Desenvolvedor Front-end Junior</span>
 
-Here are some ideas to get you started:
+  ##
+<div>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=EmersonSinezio&show_icons=true&theme=highcontrast"
+  media="(prefers-color-scheme: dark)"
+  height='180em'
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=EmersonSinezio&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=EmersonSinezio&show_icons=true" />
+</picture>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonSinezio&layout=compact&theme=highcontrast"/>
+</div>
+<br/>
+  <hr/>
+  
+  <span>Linguagens Dominadas:</span>
+  
+<div style ="display='inline-block'">
+    <img alt='html5' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width ='40' height='30'/>
+    <img alt='css3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width ='40' height='30'/>
+    <img alt='sass' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width ='40' height='30'/>
+    <img alt='javascript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width ='40' height='30'/>
+    <img alt='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width ='40' height='30'/>
+    <img alt='nextjs' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width ='40' height='30'/>
+    <img alt='nodejs' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width ='40' height='30'/>
+    <img alt='mongodb' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width ='40' height='30'/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+
+<div> 
+ <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:emerson.sineziio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emerson-mesquita-317a81258?      
+   lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7N26%2Bv0TQomJlQ6K%2Ft4ZvQ%3D%3D" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href=''>
+    <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/>
+  <a/>
+</div>
