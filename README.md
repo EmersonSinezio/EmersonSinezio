@@ -32,6 +32,7 @@
     <img alt='nextjs' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width ='40' height='30'/>
     <img alt='nodejs' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width ='40' height='30'/>
     <img alt='mongodb' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width ='40' height='30'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width ='40' height='30' />
 </div>
 
   ##
@@ -39,8 +40,7 @@
 <div> 
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emerson.sineziio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emerson-mesquita-317a81258?      
-   lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7N26%2Bv0TQomJlQ6K%2Ft4ZvQ%3D%3D" target="_blank">
+  <a href="www.linkedin.com/in/emerson-mesquita-317a81258" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href=''>
