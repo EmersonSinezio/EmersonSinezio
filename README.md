@@ -1,6 +1,6 @@
 ### Olá! Eu Sou Emerson Sinézio 👋
 
-  <span>Desenvolvedor Front-end Junior</span>
+  <span>Desenvolvedor Fullstack</span>
 
   ##
 <div>
