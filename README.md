@@ -21,8 +21,6 @@
 <br/>
   <hr/>
   
-  <span>Linguagens Dominadas:</span>
-  
 <div style ="display='inline-block'">
     <img alt='html5' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width ='40' height='30'/>
     <img alt='css3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width ='40' height='30'/>
@@ -32,7 +30,6 @@
     <img alt='nextjs' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width ='40' height='30'/>
     <img alt='nodejs' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width ='40' height='30'/>
     <img alt='mongodb' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width ='40' height='30'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width ='40' height='30' />
 </div>
 
   ##
